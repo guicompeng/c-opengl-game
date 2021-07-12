@@ -21,11 +21,11 @@ GLint sentidoAliensX = 1; //sentido de movimento do eixo x: esquerda (0) e direi
 
 GLuint idTexturaNave; //link da imagem (licensa publica) https://pixabay.com/pt/vectors/foguete-vetor-espa%c3%a7o-lan%c3%a7amento-2442125/
 
-GLuint idTexturaFundo; //link da imagem (licensa publica https://pixabay.com/pt/photos/estrelas-reino-unido-noite-1654074/
+GLuint idTexturaFundo; //link da imagem (licensa publica https://pixabay.com/pt/photos/estrelas-espa%c3%a7o-noite-cosmos-black-964022/
 
 GLuint idTexturaAlien; //link da imagem (licensa publica https://pixabay.com/pt/photos/estrelas-reino-unido-noite-1654074/
 
-GLuint idTexturaVida; //https://pixabay.com
+GLuint idTexturaVida; //link da imagem (licensa publica https://pixabay.com/pt/vectors/red-cora%c3%a7%c3%a3o-sa%c3%bade-amor-forma-304570/
 
 
 GLuint carregaTextura(const char* arquivo) {
