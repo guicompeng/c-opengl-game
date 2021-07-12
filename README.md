@@ -1,6 +1,9 @@
 # c-opengl-game
 Game made entirely in C with OpenGL. It has only been tested on debian.
 ## Demo
+### Video: https://www.youtube.com/watch?v=Lt8l_hjmREM
+
+### Print:
 ![Drag Racing](https://github.com/guicompeng/c-opengl-game/blob/main/img/demo.png)
 
 ## Dependencies
