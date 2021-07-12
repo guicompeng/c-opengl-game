@@ -1,6 +1,6 @@
 # c-opengl-game
 Game made entirely in C with OpenGL. It has only been tested on debian.
-## Dependeces
+## Dependencies
 ```sh
 sudo apt-get install freeglut3-dev 
 sudo apt-get install libglew-dev 
