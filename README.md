@@ -4,7 +4,7 @@ Game made entirely in C with OpenGL. It has only been tested on debian.
 ### Video: https://www.youtube.com/watch?v=Lt8l_hjmREM
 
 ### Print:
-![Drag Racing](https://github.com/guicompeng/c-opengl-game/blob/main/img/demo.png)
+<img src="img/demo1.png" alt="drawing" width="300"/> <img src="img/demo.png" alt="drawing" width="300"/> <img src="img/demo3.png" alt="drawing" width="300"/>
 
 ## Dependencies
 ```sh
